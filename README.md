@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iamsad5566&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats-livid-omega-86.vercel.app/?username=iamsad5566)](https://github.com/iamsad5566/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamsad5566&theme=dark)](https://git.io/streak-stats)   
+![Anurag's GitHub stats](https://github-readme-stats-livid-omega-86.vercel.app/api?username=iamsad5566&show_icons=true&theme=dracula)   
+[![Top Langs](https://github-readme-stats-livid-omega-86.vercel.app/api/top-langs/?username=iamsad5566&layout=donut-vertical)](https://github.com/iamsad5566/github-readme-stats)
+
