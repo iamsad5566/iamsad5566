@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="center" width="600" height="300" src="https://streak-stats.demolab.com?user=iamsad5566&theme=dark">
-<img align="center" width="600" height="300" src="https://github-readme-stats-livid-omega-86.vercel.app/api?username=iamsad5566&show_icons=true&theme=dracula">
+<img align="left" width="600" height="300" src="https://streak-stats.demolab.com?user=iamsad5566&theme=dark">
+<img align="right" width="300" height="300" src="https://github-readme-stats-livid-omega-86.vercel.app/api/top-langs/?username=iamsad5566&layout=donut-vertical">
+<img align="center" width="400" height="200" src="https://github-readme-stats-livid-omega-86.vercel.app/api?username=iamsad5566&show_icons=true&theme=dracula">
 
-[![Top Langs](https://github-readme-stats-livid-omega-86.vercel.app/api/top-langs/?username=iamsad5566&layout=donut-vertical)](https://github.com/iamsad5566/github-readme-stats)
 
