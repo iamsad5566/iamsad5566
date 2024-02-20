@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=iamsad5566&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats-livid-omega-86.vercel.app/?username=iamsad5566)](https://github.com/iamsad5566/github-readme-stats)
